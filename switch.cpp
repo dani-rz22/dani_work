@@ -4,7 +4,7 @@ using namespace std;
 //Ejercicio utilizando while y switch
 int main(void){
     
-    int op; 
+    int op, a, b; 
 
     //variable tipo bool unicamente puede representar dos valores (true, false)
     //bool flag = true; 
