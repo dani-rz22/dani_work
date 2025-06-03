@@ -6,7 +6,7 @@ Repositorio de trabajo en laboratorio de dia martes y jueves :technologist: :gre
 
 Funciones = subalgortimos 
 
-Constan de <tipo> <nombre> (<parametros>) {
+Constan de <"tipo"> <nombre> (<parametros>) {
 
 [return [<dato>]; ]
 }
