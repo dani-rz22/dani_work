@@ -1,9 +1,10 @@
 #include <iostream>
 using namespace std; 
 
+//typedef tipo de dato que ya existe 
 typedef int entero; 
 
-//Se parecen a una funcion
+//Se parecen a una funcion y ahora es un nuevo tipo de dato
 struct Estudiante
 {
     //Declaracion del struct termina en punto y coma, el nombre debe de inicar en mayuscula
